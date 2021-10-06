@@ -1,5 +1,5 @@
 # bioinfo-internship
-Hi there,welcome to my internship journey as I dive into Bioinformatics through interactive learning and fun data experience. 
+Hi there,I am Caroline,welcome to my internship journey as I dive into Bioinformatics through interactive learning and fun data experience. 
 
 I am thrilled to be part of the Molecular Biology and Informatics Unit at icipe, also looking foward to learning and creating solutions through individual and collaborative projects.
 
