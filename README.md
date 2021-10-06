@@ -5,4 +5,5 @@ I am thrilled to be part of the Molecular Biology and Informatics Unit, also loo
 
 
 Mission: To understand, Analyse and Interpret Bio Data through various statistical tools;To produce informed descisions through research.
+
 Vision : To become a leading Data Scientist in BioInformatics through creating sustainable solutions.
