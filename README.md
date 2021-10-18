@@ -6,4 +6,4 @@ I am thrilled to be part of the Molecular Biology and Bioinformatics Unit at *ic
 
 **Mission**: To understand, Analyse and Interpret Bio Data through various statistical tools;To produce informed decisions through Bioinformatics research.
 
-**Vision** : To become a leading Data Scientist in Bioinformatics through creating viable & sustainable solutions.
+**Vision** : To become a leading Bioinformatician through creating viable & sustainable solutions.
