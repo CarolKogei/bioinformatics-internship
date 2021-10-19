@@ -4,6 +4,6 @@ Hi there,I am Caroline,welcome to my internship journey as I dive into Bioinform
 I am thrilled to be part of the Molecular Biology and Bioinformatics Unit at *icipe*, looking foward to learning and creating solutions through individual and collaborative projects in genomics.
 
 
-**Mission**: To understand, Analyse and Interpret Bio Data through various statistical and Bioinformatics tools;To produce informed inferences in Bioinformatics research.
+**Mission**: To understand, Analyse and Interpret Bio Data through various statistical tools;To produce informed inferences in Bioinformatics research.
 
 **Vision** : To become a leading Bioinformatician through creating viable & sustainable solutions.
