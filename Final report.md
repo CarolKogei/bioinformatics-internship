@@ -11,7 +11,7 @@ The programs seeks to mold outstanding bioinformaticians through mentorship and 
 
 # My experience
 ## Training
-The training period,which took place within the first two months of the program, was a wholesome experience to say the least. It considted of activities ranging from simple softskills such as presentation skills to technical training of computer programs and languages such as python and the UNIX shell. It was a rigorous process which was made simple and achieveable with the help of a great team at the Molecular Biology and Bioinformatics Unit.
+The training period,which took place within the first two months of the program, was a wholesome experience to say the least. It consisted of activities ranging from simple softskills such as presentation skills to technical training of computer programs and languages such as python and the UNIX shell. It was a rigorous process which was made simple and achieveable with the help of a great team at the Molecular Biology and Bioinformatics Unit.
 My highlights included an introduction to bionformatics concept, the UNIX shell, Nextflow workflows, Machine Learning concepts, soft skills and python language.
 
 ## Reproducing a scientific paper
@@ -23,6 +23,7 @@ The MBBU has a journal club that meets every 2 weeks and an individual presents 
 I had an opportunity to deliver a presentation on the paper,'[A Long-Term Engagement with a Social Robot for Autism Therapy](https://www.frontiersin.org/articles/10.3389/frobt.2021.669972/full)'
 
 ## Mini-Project
-
+During the program, my partner and I were tasked with developing a machine learning algorithm that identifies an insect. Inorder to kickstart the project, we had to isuldentify an insect of intrest and through consultations we decided to settle on ticks(not really insects but arachnids) a subject of interest at *icipe*.
+We did a background research on the topic and a favorable model convenient to solving image data. This included going through previous research and models created to understand the workings of already existing model and the best approach in creating ours
 
 # Conclusion
