@@ -23,7 +23,25 @@ The MBBU has a journal club that meets every 2 weeks and an individual presents 
 I had an opportunity to deliver a presentation on the paper,'[A Long-Term Engagement with a Social Robot for Autism Therapy](https://www.frontiersin.org/articles/10.3389/frobt.2021.669972/full)'
 
 ## Mini-Project
-During the program, my partner and I were tasked with developing a machine learning algorithm that identifies an insect. Inorder to kickstart the project, we had to isuldentify an insect of intrest and through consultations we decided to settle on ticks(not really insects but arachnids) a subject of interest at *icipe*.
-We did a background research on the topic and a favorable model convenient to solving image data. This included going through previous research and models created to understand the workings of already existing model and the best approach in creating ours
+During the program, my partner and I were tasked with developing a machine learning algorithm that identifies an insect. Inorder to kickstart the project, we had to ildentify an insect of intrest and through consultations we decided to settle on ticks(not really insects but arachnids) a subject of interest at *icipe*.
+We did a background research on the topic to identify a favorable model convenient in solving image data problem. This included going through previous research done and already developed working models to understand the best approach in developing our deep learning model.
+Data availability was a challenge that we overcame by using feature transfer method - this includes training a model on something similar to the target data  so that when data becomes available it's implemented into that model after a few optimization steps - in our case we used beetles images downloaded from [kaggle.](https://www.kaggle.com/kmldas/insect-identification-from-habitus-images) This allowed us too make great strides in the model implemmentation by running 4 models and selecting the most optimal for deployment.
+The project was full of great learning points and I truly enjoyed each one of them.
+
+## Others
+In addition, we also had weekly updates and progress reviews on tasks done during the week. 
 
 # Conclusion
+The whole experience has been very impactful both in my career and as an individual. Having the opportunity to be part of a team that strives for nothing less than excellence has pushed me to want nothing less for myself and also in everything that I do. My take home learning points are:
+1. The importance of having a clear workflow for any task and documentation of the progess
+2. Progress is progress no matter how minute
+3. There is power in collaboration 
+
+# Additional materials
+* These are some of my first GitHub repositories that I created during training : [My first wiki page](https://github.com/CarolKogei/my-first-wiki), [Website](https://github.com/CarolKogei/website) and [concepts of molecular biology](https://github.com/CarolKogei/Concepts-of-molecular-biology)
+* A [powerpoint presentation](https://docs.google.com/presentation/d/1RxlyoQmJ4c3YIo-LjAtUhxBdRnLs9OST/edit?usp=sharing&ouid=117239724346945185906&rtpof=true&sd=true) I created for my journal club presentation
+* [Reproducing a scientific research paper](https://github.com/CarolKogei/reproducing-phylogenetics-paper)
+* Google colab [notebooks](https://github.com/CarolKogei/google-notebooks-dl) we used for our mini-project
+* [Bash assignment scripts](https://github.com/CarolKogei/shell-assignment)
+* [python](https://github.com/CarolKogei/Joint_Python) assignment
+
